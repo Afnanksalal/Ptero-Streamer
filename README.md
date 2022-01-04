@@ -1,7 +1,4 @@
 # Ptero-Streamer
-A Youtube video streamer for pterodactyl 
-
-# Ptero-Streamer
 
 A Youtube video streamer for pterodactyl
 
